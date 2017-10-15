@@ -20,10 +20,13 @@ API
 Impl  
 [Jaeger](https://github.com/jaegertracing/jaeger-client-node)  
 
-* Hot to run  
-1. run jaeger + ui img   
+Hot to run  
+- run jaeger + ui img   
 `docker run -d -p5775:5775/udp -p6831:6831/udp -p6832:6832/udp   -p5778:5778 -p16686:16686 -p14268:14268 jaegertracing/all-in-one:latest`
-2. run node (run from compose-with-tracing)  
-`node server3.js`
+- with http run node (run from compose-with-tracing)  
+`node server3.js`  
+ 
+- with express refTo [RisingStack](https://github.com/RisingStack/jaeger-node) 
+`node server4.js`
 
-3. Go to [jaeger](http://localhost:16686/search) on host:16686
+- Go to [jaeger](http://localhost:16686/search) on host:16686
