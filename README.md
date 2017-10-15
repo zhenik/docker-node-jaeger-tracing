@@ -1,4 +1,4 @@
-# Docker, Node, MongoDB 
+# Docker, Node, MongoDB, Opentracing with jaeger 
 
 ### Standalone  
 * How to build (run from standalone folder)  
