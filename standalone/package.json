@@ -1,5 +1,5 @@
 {
-  "name": "node-docker-example",
+  "name": "standalone",
   "version": "1.0.0",
   "main": "server.js",
   "license": "MIT",
