@@ -1,0 +1,12 @@
+{
+  "name": "node-docker-example",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.12.1"
+  },
+  "scripts": {}
+}
