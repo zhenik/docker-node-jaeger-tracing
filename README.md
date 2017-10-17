@@ -30,3 +30,7 @@ Hot to run
 `node server4.js`
 
 - Go to [jaeger](http://localhost:16686/search) on host:16686
+
+
+### Compose-NODE-REACT  
+check [https://github.com/NikitaZhevnitskiy/web-assignment1](https://github.com/NikitaZhevnitskiy/web-assignment1) 
